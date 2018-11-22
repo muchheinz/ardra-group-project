@@ -15,9 +15,9 @@ public class Main {
 		System.out.print("Enter the second number: ");
 		double num2 = keyboard.nextDouble();
 		
-		double sum = num1 + num2;
+		double sum = num1 + num2 + 3;
 		
-		System.out.print("The sum of the numbers you entered is: " + sum);
+		System.out.print("The sum of the numbers you entered plus 3 is: " + sum);
 		keyboard.close();
 	}
 
