@@ -8,7 +8,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		Scanner keyboard = new Scanner(System.in);
 		System.out.println("This program will take two number inputs and add them together");
-		
+		//checking if bluemix works
 		System.out.print("Enter the first number: ");
 		double num1 = keyboard.nextDouble();
 		
