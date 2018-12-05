@@ -21,5 +21,4 @@ public class Main {
 		System.out.print("The sum of the numbers you entered plus 2 is: " + sum);
 		keyboard.close();
 	}
-
 }
