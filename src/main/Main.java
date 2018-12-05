@@ -16,6 +16,7 @@ public class Main {
 		double num2 = keyboard.nextDouble();
 		
 		sum = num1 + num2 + 1;
+		sum = num1 ? num2
 		double sum = num1 + num2 + 2;
 		
 		System.out.print("The sum of the numbers you entered plus 2 is: " + sum);
